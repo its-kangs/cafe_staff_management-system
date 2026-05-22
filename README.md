@@ -14,8 +14,8 @@ A PHP and MySQL-based scheduling and staff management system designed for quick-
 
 <p align="center">
   <img src="images/login.png" width="220"/>
-  <img src="images/dashboard.png" width="220"/>
-  <img src="images/shifts.png" width="220"/>
+  <img src="images/Admin_dashboard.png" width="220"/>
+  <img src="images/staff_dashboard.png" width="220"/>
 </p>
 
  🛠️ Technology Stack
