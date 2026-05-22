@@ -31,4 +31,5 @@ A PHP and MySQL-based scheduling and staff management system designed for quick-
 * Analytics dashboard
 
 Author
-Anita Kang's
+Anita Alice
+
